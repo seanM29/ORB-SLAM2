@@ -1,7 +1,8 @@
 
 ## 项目来源
 １．clone from https://gitee.com/paopaoslam/ORB-SLAM2
-２．非常感谢泡泡slam以及本工程的相关开发者的工作
+
+２．非常感谢泡泡slam以及本工程开发者的工作
 
 
 ## 更多资料请见Wiki和附件
